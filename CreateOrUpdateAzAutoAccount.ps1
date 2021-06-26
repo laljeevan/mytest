@@ -302,7 +302,7 @@ $CustomLogWVDTenantScale = @"
 [
 	{
 		"hostpoolName":" ",
-		"logmessage": " "
+		"logmessage": " ",
 		"ResourceGroup": " "
 	}
 ]
