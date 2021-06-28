@@ -301,12 +301,12 @@ $TimeStampField = (Get-Date).GetDateTimeFormats(115)
 $CustomLogWVDTenantScale = @"
 [
 	{
-		"hostpoolName":" ",
-		"logmessage": " ",
+		"HostPoolName_s":" ",
+		"LogLevel_s": " ",
+		"LogMessage_s": " ",
+		"LogType_s": " ",
 		"ResourceGroup": " ",
-		"LogLevel": " ",
-		"LogType": " ",
-		"TimeStamp": " "
+		"TimeStamp_s": " "
 	}
 ]
 "@
